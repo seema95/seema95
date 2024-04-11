@@ -1,1 +1,1 @@
-Data Analystics SQL Project
+Data Analyst Python Project on Covid Analysis
